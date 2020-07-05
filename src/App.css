@@ -84,6 +84,7 @@ body {
   }
   100% {
     transform: translate(-2%, 1%) rotateZ(1deg);
+    /* transform keeps the text from being too far rotated */
   }
 }
 @keyframes crack2 {
@@ -92,6 +93,7 @@ body {
   }
   100% {
     transform: translate(2%, -1%) rotateZ(1deg);
+    /* transform keeps the text from being too far rotated */
   }
 }
 @keyframes glow {
