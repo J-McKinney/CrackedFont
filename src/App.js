@@ -9,9 +9,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <div className="wrapper">
           <div className="cracked">
-            <span>cracked</span>
-            <span>cracked</span>
-            <span>cracked</span>
+            <span>CRACKED FONT</span>
+            <span>CRACKED FONT</span>
+            <span>CRACKED FONT</span>
           </div>
         </div>
       </header>
