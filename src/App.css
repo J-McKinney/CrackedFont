@@ -45,6 +45,7 @@ body {
   background: #000;
 }
 .wrapper {
+  margin-top: -10rem;
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -53,7 +54,7 @@ body {
 }
 .cracked {
   font-family: Coolvetica, Arial;
-  font-size: 8rem;
+  font-size: 7rem;
   color: #fff;
   text-transform: uppercase;
   position: relative;
