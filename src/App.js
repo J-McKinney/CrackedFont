@@ -4,18 +4,20 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <div className="wrapper">
-          <div className="cracked">
-            <span>CRACKED FONT</span>
-            <span>CRACKED FONT</span>
-            <span>CRACKED FONT</span>
+    <>
+      <div className="App">
+        <header className="App-header">
+          <img src={logo} className="App-logo" alt="logo" />
+          <div className="wrapper">
+            <div className="cracked">
+              <span>Cracked Font</span>
+              <span>Cracked Font</span>
+              <span>Cracked Font</span>
+            </div>
           </div>
-        </div>
-      </header>
-    </div>
+        </header>
+      </div>
+    </>
   );
 }
 
