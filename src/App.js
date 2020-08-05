@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./logo.svg";
+import ReactLogo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <>
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+          <img src={ReactLogo} className="App-logo" alt="React-Logo" />
           <div className="wrapper">
             <div className="cracked">
               <span>Cracked Font</span>
