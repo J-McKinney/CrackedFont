@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CrackedFont/precache-manifest.6f3aaad72eea29045b69407fa0999ed6.js"
+  "/CrackedFont/precache-manifest.d3afee7e78a19d9f3b2a865f7b118e48.js"
 );
 
 self.addEventListener('message', (event) => {

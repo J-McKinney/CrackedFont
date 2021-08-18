@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CrackedFont/static/css/main.dc403b88.chunk.css",
-    "main.js": "/CrackedFont/static/js/main.67753f54.chunk.js",
-    "main.js.map": "/CrackedFont/static/js/main.67753f54.chunk.js.map",
+    "main.css": "/CrackedFont/static/css/main.744625a8.chunk.css",
+    "main.js": "/CrackedFont/static/js/main.e28e199a.chunk.js",
+    "main.js.map": "/CrackedFont/static/js/main.e28e199a.chunk.js.map",
     "runtime-main.js": "/CrackedFont/static/js/runtime-main.056437aa.js",
     "runtime-main.js.map": "/CrackedFont/static/js/runtime-main.056437aa.js.map",
-    "static/js/2.83571397.chunk.js": "/CrackedFont/static/js/2.83571397.chunk.js",
-    "static/js/2.83571397.chunk.js.map": "/CrackedFont/static/js/2.83571397.chunk.js.map",
+    "static/js/2.155f998a.chunk.js": "/CrackedFont/static/js/2.155f998a.chunk.js",
+    "static/js/2.155f998a.chunk.js.map": "/CrackedFont/static/js/2.155f998a.chunk.js.map",
     "index.html": "/CrackedFont/index.html",
-    "precache-manifest.6f3aaad72eea29045b69407fa0999ed6.js": "/CrackedFont/precache-manifest.6f3aaad72eea29045b69407fa0999ed6.js",
+    "precache-manifest.d3afee7e78a19d9f3b2a865f7b118e48.js": "/CrackedFont/precache-manifest.d3afee7e78a19d9f3b2a865f7b118e48.js",
     "service-worker.js": "/CrackedFont/service-worker.js",
-    "static/css/main.dc403b88.chunk.css.map": "/CrackedFont/static/css/main.dc403b88.chunk.css.map",
-    "static/js/2.83571397.chunk.js.LICENSE.txt": "/CrackedFont/static/js/2.83571397.chunk.js.LICENSE.txt",
+    "static/css/main.744625a8.chunk.css.map": "/CrackedFont/static/css/main.744625a8.chunk.css.map",
+    "static/js/2.155f998a.chunk.js.LICENSE.txt": "/CrackedFont/static/js/2.155f998a.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/CrackedFont/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.056437aa.js",
-    "static/js/2.83571397.chunk.js",
-    "static/css/main.dc403b88.chunk.css",
-    "static/js/main.67753f54.chunk.js"
+    "static/js/2.155f998a.chunk.js",
+    "static/css/main.744625a8.chunk.css",
+    "static/js/main.e28e199a.chunk.js"
   ]
 }
